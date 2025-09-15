@@ -1,0 +1,10 @@
+{
+  "pathToPandoc": "",
+  "tooltipDelay": 400,
+  "zoteroGroups": [],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pullFromZotero": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/ieee.csl"
+}
