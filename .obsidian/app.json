@@ -1,4 +1,5 @@
 {
   "livePreview": false,
-  "vimMode": true
+  "vimMode": true,
+  "promptDelete": false
 }
