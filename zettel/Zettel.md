@@ -1,0 +1,1 @@
+This is where permanent notes are stored.
