@@ -1,0 +1,1 @@
+I fear not the machine who reasons, but the human who doesn't. Wrestling with a paradoxical idea is fruit for the mind; discovery and creation satiate the soul. Since ancient times, the art of reasoning has fuelled the steady progression of mankind. It is reasoning that unveils the code of the universe, from the tiniest of single-celled organisms to the stars in the cosmos.
