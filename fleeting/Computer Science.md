@@ -1,1 +1,1 @@
-[[Computer science]] is where [[art]] meets [[philosophy]].
+[[Computer science]] is where [[art]], engineering, and [[philosophy]] meet.
