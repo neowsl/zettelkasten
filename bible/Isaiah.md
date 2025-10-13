@@ -1,3 +1,7 @@
+---
+tags: bible
+---
+
 ## 1:18
 
 > [!bible] [Isaiah 1:18 - ESV](https://bolls.life/ESV/23/1/)

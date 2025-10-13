@@ -1,3 +1,7 @@
+---
+tags: bible
+---
+
 ## 4:7
 
 > [!bible] [Philippians 4:7 - ESV](https://bolls.life/ESV/50/4/)

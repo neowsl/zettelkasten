@@ -1,3 +1,7 @@
+---
+tags: bible
+---
+
 ## 5:1 - 15
 
 > [!bible] [Mark 5:1-15 - ESV](https://bolls.life/ESV/41/5/)

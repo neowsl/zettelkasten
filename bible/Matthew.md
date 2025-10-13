@@ -1,3 +1,7 @@
+---
+tags: bible
+---
+
 ## 6:26 - 29
 
 > [!bible] [Matthew 6:26-29 - ESV](https://bolls.life/ESV/40/6/)

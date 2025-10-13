@@ -1,5 +1,8 @@
 {
   "livePreview": false,
   "vimMode": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "Excalidraw/"
+  ]
 }
