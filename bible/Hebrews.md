@@ -11,3 +11,11 @@ tags: bible
 > 4. Now if he were on earth, he would not be a priest at all, since there are priests who offer gifts according to the law.
 
 Jesus offered the ultimate sacrifice, greater than any human priest could. See original priests / Levites in [[Numbers]].
+
+## 11:39 - 40
+
+> [!bible] [Hebrews 11:39-40 - ESV](https://bolls.life/ESV/58/11/)
+> 39. And all these, though commended through their faith, did not receive what was promised,
+> 40. since God had provided something better for us, that apart from us they should not be made perfect.
+
+[[Faith]] is necessary yet not sufficient for salvation.
