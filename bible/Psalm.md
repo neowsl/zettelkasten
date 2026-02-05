@@ -1,3 +1,7 @@
+---
+tags: bible
+---
+
 > [!bible] [Psalm 136:1-8 - ESV](https://bolls.life/ESV/19/136/)
 > 1. Give thanks to the LORD, for he is good, for his steadfast love endures forever.
 > 2. Give thanks to the God of gods, for his steadfast love endures forever.
