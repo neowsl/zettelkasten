@@ -8,7 +8,7 @@
   "font_families": [],
   "preamable": {
     "shared": "#set text(fill: white, size: SIZE)\n#set page(width: WIDTH, height: HEIGHT)",
-    "math": "#set page(margin: 0pt)\n#set align(horizon)",
+    "math": "#set page(margin: 0pt)\n#set align(horizon)\n#let laplace(body) = $cal(L) { #body }$",
     "code": "#set page(margin: (y: 1em, x: 0pt))"
   },
   "plugin_version": "0.10.0",
