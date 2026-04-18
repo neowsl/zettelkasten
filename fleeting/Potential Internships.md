@@ -1,3 +1,8 @@
+### Lists
+
+- [intern-list.com](https://www.intern-list.com)
+- [SpeedyApply](https://github.com/speedyapply/2026-SWE-College-Jobs)
+
 ### FAANG
 
 - [Amazon](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&country%5B%5D=USA&category_type=studentprograms&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&)
@@ -12,6 +17,9 @@
 - [Cloudflare](https://www.cloudflare.com/en-gb/careers/jobs/?department=Early+Talent)
 - [Databricks](https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all)
 
+### Social media
+
+- [TikTok](https://lifeattiktok.com/search?job_category_id_list=&location_code_list=&recruitment_id_list=202%2C301&subject_id_list=&tag_id_list=&keyword=&limit=12&offset=0)
 
 ### AI
 
