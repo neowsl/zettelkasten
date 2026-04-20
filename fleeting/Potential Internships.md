@@ -21,8 +21,11 @@
 
 - [TikTok](https://lifeattiktok.com/search?job_category_id_list=&location_code_list=&recruitment_id_list=202%2C301&subject_id_list=&tag_id_list=&keyword=&limit=12&offset=0)
 
-### AI
+### AI / Data science
 
 - [T-Mobile](https://careers.t-mobile.com/internship)
+- [Datadog](https://careers.datadoghq.com/early-careers)
 
 ### Specialised tech
+
+- [Expedia](https://careers.expediagroup.com/jobs/?keyword=emerging+talent+and+careers)
