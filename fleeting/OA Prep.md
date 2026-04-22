@@ -1,0 +1,1 @@
+[Amazon workstyles simulation YouTube video](https://www.youtube.com/watch?v=TUYMlBOIwtw&pp=ygUWYW1hem9uIHdvcmsgc2ltdWxhdGlvbg%3D%3D)
