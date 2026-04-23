@@ -11,6 +11,10 @@
 - [Apple](https://jobs.apple.com/en-us/search?search=internship&sort=relevance&location=united-states-USA)
 - [NVIDIA](https://jobs.nvidia.com/careers?start=0&pid=893394712929&sort_by=timestamp&filter_job_type=intern+%28fixed+term%29%2Cnew+college+graduate)
 
+### Cloud
+
+- [Fly.io](https://fly.io/jobs)
+
 ### High-performance systems
 
 - [Stripe](https://stripe.com/jobs/search?tags=University)
