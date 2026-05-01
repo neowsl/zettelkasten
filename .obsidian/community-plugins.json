@@ -1,8 +1,9 @@
 [
   "obsidian-git",
-  "typst",
   "obsidian-excalidraw-plugin",
   "obsidian-bible-reference",
   "graphs",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "typst-mate",
+  "inline-math"
 ]
