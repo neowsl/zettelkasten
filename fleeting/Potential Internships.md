@@ -33,3 +33,4 @@
 ### Specialised tech
 
 - [Expedia](https://careers.expediagroup.com/jobs/?keyword=emerging+talent+and+careers)
+- [Uber](https://www.uber.com/us/en/careers/list/?department=University&location=USA-Washington-Seattle&location=USA-California-San%20Francisco&location=USA-California-Los%20Angeles)
