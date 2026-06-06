@@ -20,6 +20,7 @@
 ## Brain Dump
 
 - TA grading helps with code review: Catching errors, evaluating quality, etc.
+- Fixing bricked Linux system at 4:00 AM
 
 ## Story Bank
 
