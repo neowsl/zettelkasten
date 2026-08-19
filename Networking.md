@@ -2,7 +2,7 @@
 topics:
   - programming
   - data
-  - systems
+  - dist-sys
 created: 2026-08-19
 tags:
   - 0🌲
