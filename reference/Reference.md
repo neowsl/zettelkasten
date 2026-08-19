@@ -1,1 +1,0 @@
-This is where reference notes are stored.
