@@ -6,5 +6,6 @@
     "Excalidraw/"
   ],
   "useTab": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "tabSize": 2
 }

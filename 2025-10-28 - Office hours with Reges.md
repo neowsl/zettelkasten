@@ -1,3 +1,9 @@
+---
+tags:
+  - advice
+---
+
+
 ## TA application
 
 **I’m planning to apply to be a TA for the CSE 12X series — could you share what qualities or experiences you look for most in strong applicants?**

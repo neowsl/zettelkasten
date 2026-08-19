@@ -1,3 +1,18 @@
+---
+categories:
+  - "[[Meetings]]"
+type:
+  - "[[Job Interviews]]"
+org: F5
+people:
+  - Narayanan Veeramani
+  - Nikita Agarwal
+  - Ram Poornachandran
+date: 2026-08-18
+role: Software Development Engineer (AI/ML) Intern
+rating: 5
+---
+
 Oftentimes for security, a false positive (blocking a legitimate user) is considered just as bad as a false negative (letting an attacker through).
 
 Approach: Treat security as a **risk score**
@@ -25,3 +40,7 @@ Approach: Treat security as a **risk score**
 **Throughput**: Requests per second.
 **Observability**: Tracking metrics, logs, and traces to see what's happening.
 **Circuit breaker pattern**: Automatically disabling a feature if it starts failing.
+
+## Notes
+
+- Ram uses a Kinesis keyboard, which was funny because I brought it up during the conversation

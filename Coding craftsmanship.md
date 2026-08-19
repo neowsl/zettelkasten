@@ -1,15 +1,14 @@
 ---
-author: Jon Christensen
-url: https://every.to/p/the-death-of-code-as-craft
-read: 2026-03-07
-rating: 9.0
+topics:
+  - programming
+created: 2026-08-18
+tags:
+  - 0🌲
 ---
 
-Discusses the idea of "code as craft" - that well-architected code creates better products. Evangelised others about this idea as well. Engineers used to care about craftsmanship. Code quality was meant to attract engineers rather than CEOs.
+[[The Death of Code as Craft]] discusses the idea of "code as craft" - that well-architected code creates better products. Evangelised others about this idea as well. Engineers used to care about craftsmanship. Code quality was meant to attract engineers rather than CEOs.
 
-However, rise of LLMs provides an easy way to counter this idea. No longer does code need to be well-architected. *With enough context*, LLMs are also great at doing the thinking part.
-
-> Now, LLMs are seen as just another way of developing bad habits.
+However, rise of LLMs provides an easy way to counter this idea. No longer does code need to be well-architected. *With enough context*, LLMs are also great at doing the thinking part. **LLMs enable bad habits.**
 
 ---
 
@@ -23,4 +22,4 @@ Article also discusses the rise of monolithic architectures. Microservices / com
 
 ---
 
-Author concludes by hypothesising that creativity, problem-solving, and systems thinking are what make a great developer. I do see some merit in this argument, but am still unsure of how to move forward. Perhaps instead of working on small projects, think bigger picture, how systems interact, bringing stuff together? Learn to be the architect?
+Author concludes by hypothesising that creativity, problem-solving, and systems thinking are what make a great developer. I do see some merit in this argument, but am still unsure of how to move forward. Perhaps instead of working on small projects, think bigger picture, how [[systems]] interact, bringing stuff together? Learn to be the architect?

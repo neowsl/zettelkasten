@@ -1,3 +1,9 @@
+---
+tags:
+  - advice
+---
+
+
 ## Resume
 
 ## Major Choice & Future Goals

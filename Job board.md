@@ -1,3 +1,9 @@
+---
+tags:
+  - career
+---
+
+
 ### Lists
 
 - [intern-list.com](https://www.intern-list.com)
@@ -13,6 +19,7 @@
 
 ### Cloud
 
+- [Snowflake](https://careers.snowflake.com/us/en/search-results)
 - [Fly.io](https://fly.io/jobs)
 
 ### High-performance systems

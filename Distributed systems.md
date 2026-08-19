@@ -1,5 +1,54 @@
-> **Summary**
-> On the flipside to [[2. Data Models and Query Languages]], how do computers and systems store data under the hood to allow for efficient storage and retrieval?
+---
+topics:
+  - programming
+  - systems
+created: 2026-08-18
+tags:
+  - 0🌲
+---
+
+# Reliable, scalable, and maintainable applications
+
+3 main concerns:
+- **Reliability:** The system should continue to work *correctly*, even in the face of *adversity*.
+- **Scalability:** As the system *grows*, there should be reasonable ways of dealing with that growth.
+- **Maintainability:** People working on the system should be able to maintain current behaviour, as well as adapt the system to new use cases.
+
+Since we can't tolerate every kind of fault (e.g. a black hole), we define what kinds of fault we should tolerate.
+
+Netflix's [chaos monkey](https://netflix.github.io/chaosmonkey) is useful for random fault injection.
+
+Hard disks have a mean time to failure (MTTF) of 10-50 years, so with 10,000 disks, on disk will die per day on average.
+
+**Load parameters:** Ways to describe load on a system. E.g. requests per second, ratio of reads to writes for a DB, etc.
+
+> [No free lunch theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)
+> The idea that no algorithm is "better" than another; when reading/writing to services, we decide where to "spend" the effort - slower reads or slower writes?
+
+**Response time:** The response delay, including network travel time, queues, and processing time.
+
+We usually measure response time using percentiles: p95, p99, p999, etc.
+
+# Data models and query languages
+
+**Normalisation**: Removing duplication in values by assigning unique values individual IDs. Denormalisation is the opposite. Tradeoffs between ease of updating vs. data fetching speed.
+
+**Many-to-one**: A type of relationship where many rows in table A are children of one row in table B. Instead of table B maintaining a collection of children, many children reference the parent.
+
+3 (+ 1) big players in database models:
+- **Relational**: Data stored as rows in tables. Relationships stored as ID fields.
+	- Uses **schema-on-write**: Updating schema means performing a query across an entire table or database.
+- **Document**: Data stored in documents (usually raw strings / bytes). Sort of no relationships, child data is simply stored directly in the document.
+	- Uses **schema-on-read**: Schema updates are handled in the client code, programmatically reshaping data into new schema.
+- **Graph**: Opposite direction than document; heaviest support for relationships via vertices and edges. Also schemaless, allowing for much more "fluid/dynamic" data and evolvability.
+	- Edges can have properties as well!
+- **Network**: Relationships are treated like pointers. However, the combination of schema + pointers doesn't perform well, so network is hardly used nowadays.
+
+SQL is a declarative programming language because it allows the query optimiser to do stuff under the hood. Provides a great abstraction layer that also enables easy concurrency (since there's no set order to execute instructions).
+
+**The semantic web**: The idea that the web should also be semantically parseable by computers, essentially becoming a "database of everything".
+
+# Storage and retrieval
 
 ## Storage Systems
 
