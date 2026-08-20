@@ -8,6 +8,12 @@ tags:
   - 0🌲
 ---
 
+From [[SEL Azure Data Warehouse project]]:
+
+Used Python Spark library for Databricks serde.
+
+---
+
 From [[Designing Data-Intensive Applications]]:
 
 Distributed systems must be capable of **evolving** to scale. This includes two main concerns:
