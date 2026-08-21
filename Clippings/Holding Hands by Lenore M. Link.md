@@ -9,6 +9,8 @@ tags:
   - "clippings"
 ---
 
+(Saw on Ziglings #44)
+
 Elephants walking  
 Along the trails
 
