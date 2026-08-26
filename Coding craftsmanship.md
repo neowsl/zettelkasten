@@ -6,6 +6,14 @@ tags:
   - 0🌲
 ---
 
+In a rapidly-developing tech landscape, **craftsmanship** is a skill that may persist, even if the underlying tools change.
+
+---
+
+In [[How to beat a monopoly - Linear Case Study]], Tom Delalande talks about how craftsmanship and quality are differentiators in engineering. Good craftsmanship relies on experience and [[Intuition]], resulting in sort of a [[value function]] to know what path to pursue.
+
+---
+
 [[The Death of Code as Craft]] discusses the idea of "code as craft" - that well-architected code creates better products. Evangelised others about this idea as well. Engineers used to care about craftsmanship. Code quality was meant to attract engineers rather than CEOs.
 
 However, rise of LLMs provides an easy way to counter this idea. No longer does code need to be well-architected. *With enough context*, LLMs are also great at doing the thinking part. **LLMs enable bad habits.**
